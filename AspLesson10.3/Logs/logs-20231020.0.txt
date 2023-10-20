@@ -1,0 +1,2 @@
+2023-10-20 10:51:14.880 +03:00 [Error] AspLesson10.3: Exception from my midleware:The method or operation is not implemented.
+2023-10-20 11:04:54.011 +03:00 [Error] AspLesson10.3: Exception from my midlдeware:The method or operation is not implemented.
